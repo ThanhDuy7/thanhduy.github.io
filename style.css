@@ -98,3 +98,8 @@ a {
     margin: 0 auto;
     display: block;
 }
+.box {
+    width: 10rem;
+    height: 10re;
+    background-color: rgb(20, 93, 187);
+}
